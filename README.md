@@ -2,9 +2,9 @@
 A basic example of how to deploy a machine learning/deep learning model with Flask. This repo is available as a part of the Heartbeat article **The brilliant beginner's guide to model deployment: a clear and simple roadmap for getting your machine learning model on the internet and doing something cool."** 
 
 *You built this amazing machine learning model, but now what?
-How do you take your model and turn it into something that you can display on the web? How do you turn it into something that other people can interact with? How do you make it useful?
+How do you take your model and turn it into something that you can display on the web? How do you turn it into something that other people can interact with? How do you make it useful?*
 
-*You deploy it!
+*You deploy it!*
 
 *Being able to deploy your machine learning model is an absolute necessity. Whether you're building a model or generating reports, you need this skill.  It takes that model that you poured your blood, sweat, and tears into and turns it into something that absolutely anyone can play with and admire.
 This article will walk you through the basics of deploying a machine learning model. We're going to deploy a PyTorch image classifier with Flask. This is the first critical step towards turning your model into an app. 

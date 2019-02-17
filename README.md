@@ -1,5 +1,5 @@
 # basic_model_deployment
-A basic example of how to deploy a machine learning/deep learning model with Flask. This repo is available as a part of the Heartbeat article **The brilliant beginner's guide to model deployment: a clear and simple roadmap for getting your machine learning model on the internet and doing something cool."** 
+A basic example of how to deploy a machine learning/deep learning model with Flask. This repo is available as a part of the Heartbeat article **How to show off your machine learning model: A clear and simple roadmap for deploying your machine learning model and getting it to do something everyone can understand"** 
 
 
 ![flask_classifier_final.png](flask_classifier_final.png)
